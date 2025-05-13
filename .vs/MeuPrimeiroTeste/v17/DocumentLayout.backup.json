@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclassestest\\assertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\assertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclassestest\\fileprocesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\fileprocesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win\\AppData\\Local\\Temp\\.vsdbgsrc\\1ad1fcc95d31236472c269f4c6b9ecc602366d22278abda7a172d54b86574227\\TestMethodInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B74362-2412-44EF-9D3A-2AEE4E2DCA8E}|MyClasses\\MyClasses.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclasses\\fileprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B74362-2412-44EF-9D3A-2AEE4E2DCA8E}|MyClasses\\MyClasses.csproj|solutionrelative:myclasses\\fileprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclassestest\\stringassertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\stringassertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|d:\\testefelipe\\curso de teste unitarios em c#\\meuprimeiroteste\\myclassestest\\collectionassertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\collectionassertclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B74362-2412-44EF-9D3A-2AEE4E2DCA8E}|MyClasses\\MyClasses.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclasses\\personclasses\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B74362-2412-44EF-9D3A-2AEE4E2DCA8E}|MyClasses\\MyClasses.csproj|solutionrelative:myclasses\\personclasses\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|d:\\testefelipe\\curso de teste unitarios em c#\\meuprimeiroteste\\myclassestest\\personmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\personmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\myclassestest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7808B495-0F80-42C9-B186-014820E4D0E7}|MyClassesTest\\MyClassesTest.csproj|solutionrelative:myclassestest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonManagerTest.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\PersonManagerTest.cs",
+              "RelativeDocumentMoniker": "MyClassesTest\\PersonManagerTest.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\PersonManagerTest.cs",
+              "RelativeToolTip": "MyClassesTest\\PersonManagerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:49:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClasses\\PersonClasses\\PersonManager.cs",
+              "RelativeDocumentMoniker": "MyClasses\\PersonClasses\\PersonManager.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClasses\\PersonClasses\\PersonManager.cs",
+              "RelativeToolTip": "MyClasses\\PersonClasses\\PersonManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA/wCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:49:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectionAssertClassTest.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\CollectionAssertClassTest.cs",
+              "RelativeDocumentMoniker": "MyClassesTest\\CollectionAssertClassTest.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\CollectionAssertClassTest.cs",
+              "RelativeToolTip": "MyClassesTest\\CollectionAssertClassTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:42:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringAssertClassTest.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\StringAssertClassTest.cs",
+              "RelativeDocumentMoniker": "MyClassesTest\\StringAssertClassTest.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\StringAssertClassTest.cs",
+              "RelativeToolTip": "MyClassesTest\\StringAssertClassTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:28:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssertClassTest.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\AssertClassTest.cs",
+              "RelativeDocumentMoniker": "MyClassesTest\\AssertClassTest.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\AssertClassTest.cs",
+              "RelativeToolTip": "MyClassesTest\\AssertClassTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:29:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestMethodInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Win\\AppData\\Local\\Temp\\.vsdbgsrc\\1ad1fcc95d31236472c269f4c6b9ecc602366d22278abda7a172d54b86574227\\TestMethodInfo.cs",
+              "ToolTip": "C:\\Users\\Win\\AppData\\Local\\Temp\\.vsdbgsrc\\1ad1fcc95d31236472c269f4c6b9ecc602366d22278abda7a172d54b86574227\\TestMethodInfo.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAApwMAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:52:51.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\App.config",
+              "RelativeDocumentMoniker": "MyClassesTest\\App.config",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\App.config",
+              "RelativeToolTip": "MyClassesTest\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-25T13:34:28.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileProcessTest.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\FileProcessTest.cs",
+              "RelativeDocumentMoniker": "MyClassesTest\\FileProcessTest.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClassesTest\\FileProcessTest.cs",
+              "RelativeToolTip": "MyClassesTest\\FileProcessTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:53:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileProcess.cs",
+              "DocumentMoniker": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClasses\\FileProcess.cs",
+              "RelativeDocumentMoniker": "MyClasses\\FileProcess.cs",
+              "ToolTip": "D:\\testefelipe\\curso de teste unitarios em c#\\MeuPrimeiroTeste\\MyClasses\\FileProcess.cs",
+              "RelativeToolTip": "MyClasses\\FileProcess.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:46:20.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

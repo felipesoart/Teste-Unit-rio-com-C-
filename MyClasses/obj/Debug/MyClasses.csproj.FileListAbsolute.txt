@@ -1,0 +1,6 @@
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\bin\Debug\MyClasses.dll
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\bin\Debug\MyClasses.pdb
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.csproj.AssemblyReference.cache
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.dll
+D:\testefelipe\curso de teste unitarios em c#\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.pdb
